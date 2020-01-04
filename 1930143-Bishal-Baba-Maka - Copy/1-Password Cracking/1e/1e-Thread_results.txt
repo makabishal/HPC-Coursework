@@ -1,0 +1,17 @@
+#9976    DV75 $6$KB$36REBSFzq1/dui1N6SgVpJNWbH7.H09nEmDF84hZhfeauI13ShDyaMT/d1tPMVh35NJKKkQrT6OIYDS9VLrIY0
+#9976    DV75 $6$KB$36REBSFzq1/dui1N6SgVpJNWbH7.H09nEmDF84hZhfeauI13ShDyaMT/d1tPMVh35NJKKkQrT6OIYDS9VLrIY0
+67600 solutions explored
+67600 solutions explored
+#14854   FS53 $6$KB$TShKJUQHJ/epFrqd8PVtnjB9lsjrRx6Qwv6fY/9ZOr0NHkH3sFrkc0IZlE8ricgOeQjFu56VSq9.BV2kNSpAg.
+#14854   FS53 $6$KB$TShKJUQHJ/epFrqd8PVtnjB9lsjrRx6Qwv6fY/9ZOr0NHkH3sFrkc0IZlE8ricgOeQjFu56VSq9.BV2kNSpAg.
+67600 solutions explored
+67600 solutions explored
+#17560   GT59 $6$KB$ielcaeww2oJY5cJuYcgdrtKXuWecpbQLcbvNvI32cdGc1SW17x8csdrpeeUN/Pk8i/aXDLw1Kv4ON/obBDmcT1
+#17560   GT59 $6$KB$ielcaeww2oJY5cJuYcgdrtKXuWecpbQLcbvNvI32cdGc1SW17x8csdrpeeUN/Pk8i/aXDLw1Kv4ON/obBDmcT1
+67600 solutions explored
+67600 solutions explored
+#44493   RC92 $6$KB$V51Vk5oaq9jlHAOGUICSX1DRt6gOTPS2N9rx8KI9UPCJtcpdSHV5rmY3c9/B5Ow1eQ62.B0x7.RIlljC9ujU71
+#44493   RC92 $6$KB$V51Vk5oaq9jlHAOGUICSX1DRt6gOTPS2N9rx8KI9UPCJtcpdSHV5rmY3c9/B5Ow1eQ62.B0x7.RIlljC9ujU71
+67600 solutions explored
+67600 solutions explored
+Time elapsed was 811620091133ns or 811.620091133s
